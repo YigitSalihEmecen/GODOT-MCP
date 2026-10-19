@@ -1,0 +1,6 @@
+[project]
+name = "godot-docs-mcp"
+version = "0.1.0"
+description = "Offline Godot documentation MCP server (class reference + manual, SQLite FTS5)"
+requires-python = ">=3.10"
+dependencies = ["mcp>=1.2,<2"]

@@ -1,0 +1,4 @@
+data/
+godot.db
+.venv/
+__pycache__/
